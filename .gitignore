@@ -2,3 +2,11 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+out/
+data/
+!data/simple_graph/
+!data/simple_graph/*
+out/
+data/
+!data/simple_graph/
+!data/simple_graph/*
